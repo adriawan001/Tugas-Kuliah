@@ -1,0 +1,6 @@
+#percabangan
+umur = 15 
+if umur >=14: 
+    print("lulus") 
+else :
+    print("tidak lulus")

@@ -1,0 +1,18 @@
+#opperator and 
+x = 4
+print(x < 6 and x >2) 
+
+
+
+
+#operator or 
+a = True 
+b = False 
+print(a or b)
+
+
+
+#operator not 
+a = True 
+d = not a 
+print("not",a,"=",d)

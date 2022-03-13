@@ -1,0 +1,25 @@
+#tipe data integer 
+a = 1
+print(type(a))
+#tipe data string 
+a = "adriawan" 
+print(type(a))
+#tipe data float 
+a = 1.2 
+print(type(a))
+#tipe data bolean 
+a = True 
+print(type(a))
+a = False 
+print(type(a))
+#tipe data list 
+a = ['adri','andri']
+print(type(a))
+#tipe data tuple 
+a =[1,'adri','andri',1.2]
+print(type(a))
+#tipe data dictionary 
+a ={}
+a ={}
+a
+print(type(a))
