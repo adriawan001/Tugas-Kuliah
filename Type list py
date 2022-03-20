@@ -1,0 +1,20 @@
+#type data list
+nama = ["arif","alim","adri","awal"]
+for nama in nama:
+ print(nama)
+#mengupdat
+nama = ["arif","alim","adri","awal"]
+nama[1]="hendra"
+print(nama)
+
+
+#menghapus
+nama = ["arif","alim","adri","awal"]
+del nama [0]
+print(nama)
+
+
+#menambahkan
+nama = ["arif","alim","adri","awal"]
+nama.append("andi")
+print(nama)
